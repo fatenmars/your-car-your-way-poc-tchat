@@ -1,4 +1,4 @@
-# Your Car Your Way — PoC Tchat
+# Your Car Your Way, PoC Tchat
 
 Preuve de concept d'un tchat en temps réel entre un client et le service client. Elle valide les choix d'architecture sur une fonctionnalité ciblée.
 
